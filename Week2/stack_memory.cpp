@@ -22,8 +22,6 @@ int main()
     */
     int a, c = 10;
     cout << "The address of a is : " << &a << endl;
-    // The stack begins at a high memory address and works its way down, whereas 
-    // the heap begins at a low memory address and works its way up.
 
     func();
 
